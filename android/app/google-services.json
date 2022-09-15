@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637809558409",
+    "project_id": "connection1-16bff",
+    "storage_bucket": "connection1-16bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637809558409:android:19fe34401183de47ce9758",
+        "android_client_info": {
+          "package_name": "com.example.clever_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637809558409-mdoq0744gae32rm3ipv2glrpnphkbtdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPs94rpwXX8U_LCH4IY0Pws7s4ZVBGaeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637809558409-mdoq0744gae32rm3ipv2glrpnphkbtdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
